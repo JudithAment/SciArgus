@@ -1,8 +1,8 @@
 #Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity, climate impacts and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
 
 #Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+Impact evaluations of conservation interventions and their resulting biodiversity and climate outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
 
 #Biodiversity Monitoring
 Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
@@ -22,5 +22,8 @@ Papers discussing the concept of ecological condition and its quantification. Th
 #Global Biodiversity Data
 Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Climate Mitigation and Natural Climate Solutions
+Research on carbon markets methodologies through carbon crediting standards and registries. Impact evaluations of Natural Climate Solutions (NCS) in forests. blue carbon and peatlands, including mitigating the impacts of fire. Include methodological papers, as well as impact assessments
+
+#Uncertainty Assessments, Map Validation, Spatial or Temporal Autocorrelation
+Technical papers on novel methods for dealing with uncertainty in modelling efforts, validating maps and models, and handling spatial or temporal autocorrelation in training data for descriptive or predictive modelling frameworks. 
