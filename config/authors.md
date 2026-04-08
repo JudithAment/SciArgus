@@ -40,3 +40,6 @@ Katherine Hayhoe
 Nichole Barger
 John Poulsen
 Geethen Singh
+Susan Cook-Patton
+Thomas Crowther
+Oswald Schmitz
